@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Machine Learning and Data Science engineer from India</h3>
 
-- 🔭 I’m currently working on **Customer churn prediction using ML ops**
+- 🔭 I’m currently working on ** Analytics Project**
 
-- 🌱 I’m currently learning **Flask, Hadoop**
+- 🌱 I’m currently learning **Power BI**
 
 - 👯 I’m looking to collaborate on **Machine learning project**
 
