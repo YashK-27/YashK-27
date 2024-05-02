@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kankriyayash18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dt8WaG2aXdY85p5E8-oXDT55ebvCgslT/view?usp=sharing](https://drive.google.com/file/d/1Dt8WaG2aXdY85p5E8-oXDT55ebvCgslT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Dt8WaG2aXdY85p5E8-oXDT55ebvCgslT/view?usp=sharing](https://drive.google.com/file/d/1-A5Qoq-jY5sHuISKlfaRN9r1ny_cGZkG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
