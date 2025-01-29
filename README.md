@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Analytics Project**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Quant Finance**
 
 - 👯 I’m looking to collaborate on **Machine learning project**
 
